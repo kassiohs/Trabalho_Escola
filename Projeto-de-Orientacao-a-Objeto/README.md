@@ -1,8 +1,5 @@
-# Projeto-de-Orientacao-a-Objeto
-
-# Equipe: 
-
-* MARIA EDUARDA OLIVEIRA DE LIMA
-* VÍTOR GABRIEL BASTOS LOPES
-* GILMAR BOMFIM DA COSTA JUNIOR
-* FELIPE GOMES GADELHA
+# Projeto de Orientação a Objetos
+- Kássio Holanda da Silva
+- Hilton Bruce
+- José Albuquerque
+- Keven Steven
